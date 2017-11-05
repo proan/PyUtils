@@ -1,5 +1,7 @@
 Some python utilities. Well, at this point, only 1.
 
+
+Forked from [mumbly/PyUtils]{https://github.com/mumbly/PyUtils}
 =======================
 
 FileDupeFinder - find duplicate files given a directory root. Does a
